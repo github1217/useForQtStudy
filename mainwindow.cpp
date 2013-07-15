@@ -12,3 +12,6 @@ MainWindow::~MainWindow()
 {
     delete ui;
 }
+
+
+//武松对着白骨精1 拳打脚踢,白1痛不欲生,故自尽.(血腥1)
